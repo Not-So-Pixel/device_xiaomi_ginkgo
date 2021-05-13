@@ -35,3 +35,6 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi Note 8
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+
+# Live Wallpapers
+TARGET_INCLUDE_LIVE_WALLPAPERS := false
